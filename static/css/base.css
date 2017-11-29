@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors lipeipei (2577892024@qq.com)
+ * @date    2017-11-22 12:51:38
+ * @version $Id$
+ */
+
+.logo{
+	
+	height: 50px;
+}
+
+body{
+	background: #f3f3f3;
+}
+
+.main{
+	background: #fff;
+	width: 730px;
+	margin: 0 auto;
+	overflow: hidden;
+}
