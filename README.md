@@ -1,2 +1,0 @@
-# zlktqa
-python web
